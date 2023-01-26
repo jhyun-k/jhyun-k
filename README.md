@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Jihyun-k!&fontSize=90&animation=blink) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20I'm%20Jihyun-k!&fontSize=90&animation=blink) 
   
 ##   🌱 안녕하세요 신입 프론트엔드 개발자 김지현입니다 🤓
   
