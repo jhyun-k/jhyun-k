@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20I'm%20Jihyun-k!&fontSize=90&animation=blink) 
   
-##   🌱 안녕하세요 신입 프론트엔드 개발자 김지현입니다 🤓
+##   🌱 안녕하세요 프론트엔드 개발자 김지현입니다 🤓
   
   - **새로운 것을 배우고 써먹기를 좋아합니다**
   - **좋은 코드가 무엇인지 항상 고민합니다**
